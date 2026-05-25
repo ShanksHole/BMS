@@ -208,3 +208,5 @@ C4 = VC5 - VC3
 * ESP32 Board Package
 * Embedded C++
 * I2C Communication Protocol
+
+<img width="1048" height="616" alt="image" src="https://github.com/user-attachments/assets/a710b5d3-82da-4ec4-bc9a-626d780b6ea2" />
